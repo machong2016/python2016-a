@@ -11,6 +11,6 @@ def go(a, b, c):
     print "%.2f%%" % per
 
 
-url = "http://youxi.66wz.com/uploads/1046/1321/11410192.90d133701b06f0cc2826c3e5ac34c620.jpg"
+url = "http://m4.biz.itc.cn/pic/new/n/95/65/Img8686595_n.jpg"
 local = "f:\python2016-a\g.jpg"
 urllib.urlretrieve(url, local, go)
